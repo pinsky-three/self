@@ -1,0 +1,5 @@
+= nsew_graph(8)
+
+Graph generated with local match rule system. This work is related to my computational model called Asynchronous Hypergraph Cellular Automata.
+
+#everyday #generative #newmedia #mediaart #design #artandtechnology #digitalart #trippy #mesmerizing #artxcode #creativecoding #computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #graphvisualization #forcedirectedgraph #computationalart #digitalart #algorithmicart #datavisualization #creativecoding #generativeart

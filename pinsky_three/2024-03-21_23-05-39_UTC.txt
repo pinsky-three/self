@@ -1,0 +1,8 @@
+= cyclic_automaton(2, 4, 4)⁣
+
+⁣
+Cyclic Cellular Automaton with 4 states and stochastic behavior. Implementation with custom engine based on dynamical systems.
+
+https://github.com/pinsky-three/calab
+
+#art #cellularautomata #creativecoding #generative #generativeart #newmedia #mediaart #design #artandtechnology #digitalart #vax #trippy #trippyart #mesmerizing #artxcode #creativecodeart

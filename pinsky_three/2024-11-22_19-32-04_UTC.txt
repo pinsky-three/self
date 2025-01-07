@@ -1,0 +1,29 @@
+= llmca(0)
+
+EN:
+This series explores the “cognitive units” concept, each cell in a grid makes autonomous decisions based on its memory and interactions with neighbors, guided by a language model. The patterns represent consensus-building—a system where local decisions create global harmony.
+
+The LLMCA (Language Model Cellular Automata) project shows how simple rules and memory lead to complex, adaptive behaviors. These visuals highlight the balance between individuality and collective order, blurring the line between computation and cognition.
+
+ES:
+Esta serie explora el concepto de “unidades cognitivas”, cada celda en una grilla toma decisiones autónomas basándose en su memoria y en las interacciones con sus vecinos, guiadas por un modelo de lenguaje. Los patrones reflejan la construcción de consenso: un sistema donde decisiones locales generan armonía global.
+
+El proyecto LLMCA (Language Model Cellular Automata) demuestra cómo reglas simples y memoria dan lugar a comportamientos complejos y adaptativos. Estas imágenes muestran el equilibrio entre la individualidad y el orden colectivo, difuminando la línea entre computación y cognición.
+
+PROMPTS:
+1. “you’re a pixel in a image showing a summer sunset”
+2. “you represent a pixel in a rainy day photography”
+3. “you’re a pixel in a image showing a summer sunset”
+4. “you’re a pixel in a 2d space where are showing a summer sunset”
+5. “you’re a pixel in a hue color gradient, choose your color”
+6. “you represent a pixel in a landscape photography”
+7. “you’re a cell in a cellular automaton with a game of life like behavior”
+8. “you represent a color that evokes the sadness”
+9. “you’re a pixel in a sunset video, update your state to create an emotive scene”
+10. “you’re a pixel in a sunset video, update your state to create an emotive scene”
+
+REF:
+Cellular automata: https://en.wikipedia.org/wiki/Cellular_automaton
+LLMCA project repository: https://github.com/pinsky-three/llmca
+
+#art #generativeart #computationalart #creativecoding #cellularautomata #llm #aiart #complexsystems #emergentbehavior

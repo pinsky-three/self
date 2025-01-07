@@ -1,0 +1,12 @@
+= conformal_deformations_series
+
+EN:
+This series explores the concept of conformal maps, focusing on how shapes can transform while preserving their local angles. The flowing patterns illustrate how space can be bent and stretched without losing its internal structure, a visual metaphor for the mathematical principles behind conformal deformations.
+
+ES:
+Esta serie explora el concepto de mapas conformes, centrándose en cómo las formas pueden transformarse preservando sus ángulos locales. Los patrones fluidos ilustran cómo el espacio puede doblarse y estirarse sin perder su estructura interna, una metáfora visual de los principios matemáticos detrás de las deformaciones conformes.
+
+REF:
+https://en.wikipedia.org/wiki/Conformal_map
+
+#art #arte #conformalmap #topology #inkdrawing #abstractart #arteabstracto #geometricart #computationalart #visualart #lineart #organicart #deformation #mathart

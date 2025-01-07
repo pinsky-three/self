@@ -1,0 +1,5 @@
+= lattice_graph_visualization(60, 60)
+
+This piece is a part of my exploration into utilizing force-directed graph drawing algorithms to represent Asynchronous Hypergraph Cellular Automata.
+
+#computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #computer #GraphVisualization, #ForceDirectedGraph #ComputationalArt #DigitalArt #AlgorithmicArt #DataVisualization #CreativeCoding #GenerativeArt #Processing #p5js

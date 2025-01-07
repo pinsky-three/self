@@ -1,0 +1,9 @@
+= hilbert_evolution(9)
+
+EN:
+A visual exploration of the continuous transformation of the Hilbert curve, moving from the geometric to the organic. Each iteration proposes new transitions, suggesting the concept of continuity over time.
+
+ES:
+Una exploración visual de la transformación continua de la curva de Hilbert, pasando de lo geométrico a lo orgánico. Cada iteración propone nuevas transiciones, sugiriendo el concepto de continuidad en el tiempo.
+
+#art #arte #generativeart #artegenerativo #hilbertcurve #curvahilbert #abstractart #arteabstracto #mathematics #computationalart #artcomplex #artecomplejo #visualart #inkdrawing #mathart

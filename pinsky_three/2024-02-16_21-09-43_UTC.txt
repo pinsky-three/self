@@ -1,0 +1,5 @@
+= diffraction(1)
+
+Diffraction is the interference or bending of waves around the corners of an obstacle or through an aperture into the region of geometrical shadow of the obstacle/aperture. The diffracting object or aperture effectively becomes a secondary source of the propagating wave.
+
+https://en.wikipedia.org/wiki/Diffraction

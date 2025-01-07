@@ -1,0 +1,11 @@
+= life_like_cellular_automata(240, 256)
+
+Implementation of the ‘life-like’ cellular automata family on an ESP32 microcontroller with composite video output.
+
+———
+
+Implementación de la familia de autómatas celulares ‘life-like’ en un microcontrolador esp32 con salida de video compuesto.
+
+Repository: https://github.com/pinsky-three/v-synth
+
+#art #cellularautomata #genuary #genuary2 #everyday #realtime #generative #generativeart #generativedesign #newmedia #mediaart #design #artandtechnology #digitalart #vfx #trippy #trippyart #mesmerizing #artxcode #creativecoding

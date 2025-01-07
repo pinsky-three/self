@@ -1,0 +1,7 @@
+= monotile_exploration(1)
+
+Artistic exploration of tessellations with chiral aperiodic monotiles. This composition uses “Spectres,” a strictly chiral and aperiodic shape that only allows non-periodic tilings. The vibrant colors and complex patterns of this piece invite reflection on order and chaos in art.
+
+Reference: https://arxiv.org/pdf/2305.17743
+
+#art #generativeart #abstractart #mathart #geometryart #computationalart #monotiles #tessellation #chiral #aperiodic #colorfulart #artlover #instaart #contemporaryart #mathinart #digitalart #artandtechnology #creativecoding #artofvisuals

@@ -1,0 +1,12 @@
+= dynamic(v0.0.2)
+
+Prototype of a new piece of extended paint. Using light properties to add temporal dimension to my paints.
+
+Source Code:  https://github.com/pinsky-three/dynamic
+
+Thanks for the help 🙏:
+
+@maxlr2005 
+@lima_makers 
+
+#art #videoart #generativeart #generative #artandtechnology #digitalart

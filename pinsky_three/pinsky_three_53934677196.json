@@ -1,0 +1,101 @@
+{
+    "instaloader": {
+        "node_type": "Profile",
+        "version": "4.14"
+    },
+    "node": {
+        "ai_agent_type": null,
+        "bio_links": [
+            {
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fpinsky.studio%2F&e=AT12Ob1e5U0M7FbVYg90hd2GfqyVS37sk5vEgD8rzD1IQJIX4hjgOQrjzPB4FL-zgfJTckfcLU1kMjuBnVXZsTPwOip_ys23bP1V9w8L12m_ma3a",
+                "title": "Pinsky Studio",
+                "url": "https://pinsky.studio"
+            },
+            {
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fgithub.com%2Fpinsky-three&e=AT3X8o_xrFH3J4YTTWMYPPHBNUHzqU7kX41TzEFn25qIR-YY_78m6e7lqJ3giDVwD-eUkKCBPULRgzRouIvLMYGMX9QRIk5ifmrNZYW0Es0jja2p",
+                "title": "",
+                "url": "https://github.com/pinsky-three"
+            }
+        ],
+        "biography": "\u26d3\ufe0fComputational Artist\nNavigating through draws, math, computation, life, society and draws, math, computation, \u2026",
+        "biography_with_entities": {
+            "entities": [],
+            "raw_text": "\u26d3\ufe0fComputational Artist\nNavigating through draws, math, computation, life, society and draws, math, computation, \u2026"
+        },
+        "blocked_by_viewer": false,
+        "business_address_json": null,
+        "business_category_name": null,
+        "business_contact_method": "UNKNOWN",
+        "business_email": null,
+        "business_phone_number": null,
+        "category_enum": null,
+        "category_name": "Artist",
+        "connected_fb_page": null,
+        "country_block": false,
+        "edge_follow": {
+            "count": 398
+        },
+        "edge_followed_by": {
+            "count": 404
+        },
+        "edge_mutual_followed_by": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_related_profiles": {
+            "edges": []
+        },
+        "eimu_id": "17846770553797197",
+        "external_url": "https://pinsky.studio/",
+        "external_url_linkshimmed": "https://l.instagram.com/?u=https%3A%2F%2Fpinsky.studio%2F&e=AT2jXyidlOcjiISTjIWnxwk2uAKJYxxr_a3dPSPB1xpInj_o0FsM61M2a03fAEnVN6JSqVQCZjIaesm7xeI4ufiZ2GqR4v1hSYmwqiFHnzIGOLA1",
+        "fb_profile_biolink": null,
+        "fbid": "17841453915901834",
+        "followed_by_viewer": false,
+        "follows_viewer": false,
+        "full_name": "Pinsky",
+        "group_metadata": null,
+        "guardian_id": null,
+        "has_ar_effects": false,
+        "has_blocked_viewer": false,
+        "has_channel": false,
+        "has_clips": true,
+        "has_guides": false,
+        "has_onboarded_to_text_post_app": true,
+        "has_requested_viewer": false,
+        "hide_like_and_view_counts": false,
+        "highlight_reel_count": 0,
+        "id": "53934677196",
+        "is_business_account": false,
+        "is_embeds_disabled": false,
+        "is_guardian_of_viewer": false,
+        "is_joined_recently": false,
+        "is_private": false,
+        "is_professional_account": true,
+        "is_regulated_c18": false,
+        "is_supervised_by_viewer": false,
+        "is_supervised_user": false,
+        "is_supervision_enabled": false,
+        "is_verified": false,
+        "is_verified_by_mv4b": false,
+        "overall_category_name": null,
+        "pinned_channels_list_count": 0,
+        "profile_pic_url": "https://instagram.fcuz1-1.fna.fbcdn.net/v/t51.2885-19/420136209_901489527969490_4168633227127239533_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fcuz1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AHCaBAjqoLZtVCPb070dA3zuVulSqW0riSJq4pziW0MK_2kqSogoONbwi7DauZ7Q7ZqnogMr9mGeKMU9_aBDbqX&_nc_ohc=3EDfm0ouYroQ7kNvgFXHa53&_nc_gid=7bc2f19cce044658b52e2ca5273c2974&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYAsEItPAUvAf4K8CC-jy3Vveo5qEJ44821Kp1PdPXMqIg&oe=6774D601&_nc_sid=8b3546",
+        "profile_pic_url_hd": "https://instagram.fcuz1-1.fna.fbcdn.net/v/t51.2885-19/420136209_901489527969490_4168633227127239533_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.fcuz1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AHCaBAjqoLZtVCPb070dA3zuVulSqW0riSJq4pziW0MK_2kqSogoONbwi7DauZ7Q7ZqnogMr9mGeKMU9_aBDbqX&_nc_ohc=3EDfm0ouYroQ7kNvgFXHa53&_nc_gid=7bc2f19cce044658b52e2ca5273c2974&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYAPrStrNhPlzs2lVJy1szWgB-9d_L55nM8a7GwlxKtnHw&oe=6774D601&_nc_sid=8b3546",
+        "pronouns": [
+            "he",
+            "him"
+        ],
+        "remove_message_entrypoint": false,
+        "requested_by_viewer": false,
+        "restricted_by_viewer": null,
+        "should_show_category": true,
+        "should_show_public_contacts": false,
+        "show_account_transparency_details": true,
+        "show_text_post_app_badge": true,
+        "transparency_label": null,
+        "transparency_product": null,
+        "username": "pinsky_three"
+    }
+}

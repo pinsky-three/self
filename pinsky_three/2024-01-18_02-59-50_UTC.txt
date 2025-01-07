@@ -1,0 +1,7 @@
+= pinsky_wave_function_collapse(256, 256)
+
+Partial result of a work exploring texture synthesis with “wave function collapse” algorithm: https://github.com/mxgmn/WaveFunctionCollapse
+
+Current implementation: https://github.com/pinsky-three/pinsky
+
+#art #wavefunctioncollapse #wavefunction #genuary #genuary2 #everyday #realtime #generative #generativeart #generativedesign #newmedia #mediaart #design #artandtechnology #digitalart #vfx #trippy #trippyart #mesmerizing #artxcode #creativecoding

@@ -1,0 +1,31 @@
+= pinsky_fractal(2)
+
+module pinsky_fractal(levels) {
+ if(levels) {
+ cube([1,1,1]);
+ translate([1, 0, 0]) scale([0.5, 0.5, 0.5]) pinsky_fractal(levels-1); 
+  translate([0, 1, 0]) scale([0.5, 0.5, 0.5]) pinsky_fractal(levels-1); 
+  translate([0, 0, 1]) scale([0.5, 0.5, 0.5]) pinsky_fractal(levels-1); 
+ } else {
+ cube([1,1,1]);
+ translate([1,0,0]) cube([0.5,0.5,0.5]);
+ translate([0,1,0]) cube([0.5,0.5,0.5]);
+ translate([0,0,1]) cube([0.5,0.5,0.5]);
+ }
+}
+
+#FractalArt
+#3DArt
+#SierpinskiPyramid
+#MathematicalArt
+#AlgorithmicSculpture
+#GeometricArt
+#DigitalSculpture
+#ArtisticEngineering
+#ParametricDesign
+#CreativeEngineering
+#MathInArt
+#GeometryLovers
+#ProgrammingArt
+#SculptureArt
+#InnovativeArt

@@ -1,0 +1,13 @@
+= from_chaos(1000)
+
+Exploring the relationship between mathematics and nature with this piece inspired by the Barnsley fern fractal. 
+
+Each pattern you see is the result of mathematical equations, transforming code into visual art that resembles a growing fern.
+
+V -variable fractals and superfractals (Michael Barnsley, John E Hutchinson & Orjan Stenflo):
+https://maths-people.anu.edu.au/~barnsley/pdfs/V-var_super_fractals.pdf
+
+Project Source Code:
+https://github.com/pinsky-three/codec-feb-2024
+
+#art #videoart #generativeart #realtime #generative #artandtechnology #digitalart #fractals #fractal #fractalart #creativecoding #artxcode

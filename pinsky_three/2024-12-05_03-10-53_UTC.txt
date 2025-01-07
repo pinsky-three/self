@@ -1,0 +1,5 @@
+= emergent_figurative(0)
+
+Research about spatial scene dimensionality in drawing technique.
+
+#art #drawing #math #postprocessing

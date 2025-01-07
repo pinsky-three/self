@@ -1,0 +1,8 @@
+= Living_Software(Vec<Source>, LLM)
+
+Source = Vec<{Text, Source}>
+LLM = Vec<Text> -> Text
+Text = Vec<Token>
+Token = Meaning Unit
+
+#computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #computer

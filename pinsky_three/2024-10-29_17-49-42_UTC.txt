@@ -1,0 +1,10 @@
+= yoneda_lemma_series(0)
+
+EN: This series is inspired by the Yoneda Lemma, a foundational concept in category theory. The lemma shows how any object in a mathematical structure can be “represented” by understanding its relationships with other objects. By using Hom-functors and natural transformations, each piece in the series explores how abstract relationships can give us a clearer picture of complex structures.
+
+ES: Esta serie está inspirada en el Lema de Yoneda, un concepto fundamental en la teoría de categorías. Este lema muestra cómo cualquier objeto en una estructura matemática puede “representarse” al entender sus relaciones con otros objetos. Usando Hom-funtores y transformaciones naturales, cada pieza de la serie explora cómo las relaciones abstractas nos permiten entender mejor estructuras complejas.
+
+REF:
+Wikipedia: https://en.wikipedia.org/wiki/Yoneda_lemma
+
+#art #arte #yoneda #drawing #teoriadecategorias #mathart #arteabstracto #generativeart #abstractart #computationalart #topology #visualart #categorytheory

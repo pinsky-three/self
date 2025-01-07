@@ -1,0 +1,9 @@
+= Hypergraph_Async_Cellular_Automata(HG, Dynamic)
+
+HG = (N, HE)
+N = IndexedList<T>
+HE = IndexedList<IndexedList<Index>, T>
+Dynamic = (Index, HG) -> HG
+Index = uint
+
+#computerscience #computationalart  #art #artoftheday #generativeart #abstractart #math  #wolfram  #computationalmodels #artworks  #handdrawn #handmade #drawing  #draw

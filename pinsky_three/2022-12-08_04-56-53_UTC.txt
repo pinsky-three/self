@@ -1,0 +1,7 @@
+= Arbitrary One Dimensional Cellular Automaton. 
+
+Emulated by ChatGPT with following prompt:
+
+“I want you to act as one dimensional cellular automaton with a chaotic rule. The way to represent the global state is in the exact size of 57 characters of 0 and 1 in one code block as a terminal output. The number of characters used by line is 57, maintain that in order the preserver the aspect ratio of the code block. The initial state is the sequence 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0.  You will reply with the initial sequence and the evolution of the next 10 steps of the evolution of this cellular automaton. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do no write explanations.”
+
+#artai #cellularautomata #generativeart #chatgpt #openai #abstractart

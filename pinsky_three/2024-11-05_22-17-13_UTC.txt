@@ -1,0 +1,15 @@
+= reaction_diffusion_anisotropy
+
+EN: Inspired by reaction-diffusion systems and anisotropy, this piece explores how local interactions form structured, self-organizing patterns. Reaction-diffusion models generate organic shapes, while anisotropy introduces directional variations, creating a dynamic response in the visuals. This interaction highlights the balance between randomness and order, symmetry and variation.
+
+ES: Inspirada en los sistemas de reacción-difusión y la anisotropía, esta pieza explora cómo las interacciones locales generan patrones estructurados y autoorganizados. Los modelos de reacción-difusión producen formas orgánicas, mientras que la anisotropía introduce variaciones direccionales, creando una respuesta visual dinámica. Esta interacción resalta el equilibrio entre el azar y el orden, la simetría y la variación.
+
+REF:
+
+Turing, A. M. “The Chemical Basis of Morphogenesis.” Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 1952.
+
+Murray, J. D. Mathematical Biology: I. An Introduction, Springer, 2002.
+
+Zhang, H., et al. “Anisotropic Materials and Their Applications.” Annual Review of Materials Research, 2020.
+
+#art #arte #reactiondiffusion #anisotropy #generativeart #abstractart #visualart #computationalart #patterns #mathart #arteabstracto #topology #selforganization

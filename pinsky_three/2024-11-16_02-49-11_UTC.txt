@@ -1,0 +1,17 @@
+= machines_and_recursion_series(7)
+
+EN:
+This series examines two cornerstone concepts of computation. The first is the Turing machine, an abstract mathematical model that formalizes the concept of memory through linear encoding. These drawings explore how sequential data and finite state transitions form the basis of algorithmic thought.
+The second concept is recursion, captured here through substitution systems that iterate over simple rules to generate complexity. These pieces reflect how recursive structures underpin modern programming and mathematical logic.
+
+ES:
+Esta serie examina dos conceptos fundamentales de la computación. El primero es la máquina de Turing, un modelo matemático abstracto que formaliza el concepto de memoria mediante la codificación lineal. Estos dibujos exploran cómo los datos secuenciales y las transiciones de estado finito forman la base del pensamiento algorítmico.
+El segundo concepto es la recursión, representada aquí a través de sistemas de sustitución que iteran sobre reglas simples para generar complejidad. Estas piezas reflejan cómo las estructuras recursivas sustentan la programación moderna y la lógica matemática.
+
+REF:
+	1.	Turing, A. M. (1936). “On Computable Numbers, with an Application to the Entscheidungsproblem.” Proceedings of the London Mathematical Society.
+	2.	Odifreddi, P. (1999). Classical Recursion Theory. Elsevier Science.
+	3.	Wolfram, S. (2002). A New Kind of Science. Wolfram Media.
+	4.	Hopcroft, J. E., & Ullman, J. D. (1979). Introduction to Automata Theory, Languages, and Computation. Addison-Wesley.
+
+#art #arte #generativeart #artegenerativo #turingmachine #recursion #computationalart #recursiveart #abstractart #programminglogic #artandmath #systemsthinking #mathart

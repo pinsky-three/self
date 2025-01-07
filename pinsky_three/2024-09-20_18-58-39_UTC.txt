@@ -1,0 +1,11 @@
+= cyclic_automaton_render(8)
+
+EN: This piece shows a cyclic cellular automaton with 8 states. The patterns and spirals come from the interaction between simple rules and neighboring cells, creating these unique visual forms.
+
+ES: Esta pieza muestra un autómata celular cíclico con 8 estados. Los patrones y espirales surgen de la interacción entre reglas simples y celdas vecinas, creando estas formas visuales únicas.
+
+REF: 
+1. https://en.wikipedia.org/wiki/Cyclic_cellular_automaton
+2. https://github.com/pinsky-three/calab
+
+#art #arte #generativeart #artegenerativo #mathart #automatascelulares #cellularautomaton #abstractart #arteabstracto #computationalart #visualart #creativecoding

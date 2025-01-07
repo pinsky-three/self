@@ -1,0 +1,17 @@
+= aperiodic_monotile(3)
+
+EN:
+This series explores weakly chiral aperiodic monotiles—shapes that tile the plane without forming repeating patterns, but only when reflections are forbidden. Inspired by recent discoveries in tiling theory, these forms demonstrate how chirality enforces aperiodicity, creating non-repetitive structures from a single tile.
+
+At the edge of periodicity and aperiodicity, the system shows how local constraints produce global patterns. The balance of symmetry, reflection, and rotation reveals geometric structures where repetition is disrupted, yet coherence remains intact.
+
+ES:
+Esta serie explora los monotiles aperiódicos débilmente quirales—formas que recubren el plano sin generar patrones repetitivos, pero solo cuando se prohíben las reflexiones. Inspirada en avances recientes en teoría del teselado, la serie revela cómo la quiralidad impone la aperiocidad, creando estructuras no repetitivas a partir de una única pieza.
+
+En el límite entre periodicidad y aperiocidad, el sistema muestra cómo restricciones locales generan patrones globales. El equilibrio entre simetría, reflexión y rotación da lugar a estructuras geométricas donde la repetición se interrumpe, pero la coherencia se mantiene.
+
+REF:
+	•	A chiral aperiodic monotile: https://cs.uwaterloo.ca/~csk/spectre
+	•	Einstein problem: https://en.wikipedia.org/wiki/Einstein_problem
+
+#art #generativeart #computationalart #geometry #monotiles #aperiodic #creativecoding #complexsystems #tilingtheory #chiral

@@ -1,0 +1,9 @@
+= schroeder_bernstein_theorem(5)
+
+EN:
+This series explores the Schröder-Bernstein Theorem. It delves into the paradox of matching sizes in different spaces, finding abstract connections between seemingly unrelated ideas.
+
+ES:
+Esta serie explora el Teorema de Schröder-Bernstein. La paradoja de coincidir tamaños en espacios distintos. Se trata de encontrar conexiones abstractas entre ideas aparentemente no relacionadas.
+
+#art #arte #generativeart #artegenerativo #mathart #arteabstracto #schroederbernstein #theorem #teorema #abstractart #artematematico #settheory #teoriadeconjuntos #computationalart #artecomputacional #visualart #inkdrawing
