@@ -1,0 +1,373 @@
+datetime,content
+2024-03-11T20:10:53+00:00,"= reaction_diffusion(3)
+
+#art #painting #artcollector #artoftheday #artdaily #futurism #reactiondiffusion #mathart
+"
+2023-09-03T17:54:59+00:00,"= Hypergraph_Async_Cellular_Automata(HG, Dynamic)
+
+HG = (N, HE)
+N = IndexedList<T>
+HE = IndexedList<IndexedList<Index>, T>
+Dynamic = (Index, HG) -> HG
+Index = uint
+
+#computerscience #computationalart  #art #artoftheday #generativeart #abstractart #math  #wolfram  #computationalmodels #artworks  #handdrawn #handmade #drawing  #draw
+"
+2024-12-16T10:35:02+00:00,"= aperiodic_monotile(3)
+
+EN:
+This series explores weakly chiral aperiodic monotiles—shapes that tile the plane without forming repeating patterns, but only when reflections are forbidden. Inspired by recent discoveries in tiling theory, these forms demonstrate how chirality enforces aperiodicity, creating non-repetitive structures from a single tile.
+
+At the edge of periodicity and aperiodicity, the system shows how local constraints produce global patterns. The balance of symmetry, reflection, and rotation reveals geometric structures where repetition is disrupted, yet coherence remains intact.
+
+ES:
+Esta serie explora los monotiles aperiódicos débilmente quirales—formas que recubren el plano sin generar patrones repetitivos, pero solo cuando se prohíben las reflexiones. Inspirada en avances recientes en teoría del teselado, la serie revela cómo la quiralidad impone la aperiocidad, creando estructuras no repetitivas a partir de una única pieza.
+
+En el límite entre periodicidad y aperiocidad, el sistema muestra cómo restricciones locales generan patrones globales. El equilibrio entre simetría, reflexión y rotación da lugar a estructuras geométricas donde la repetición se interrumpe, pero la coherencia se mantiene.
+
+REF:
+	•	A chiral aperiodic monotile: https://cs.uwaterloo.ca/~csk/spectre
+	•	Einstein problem: https://en.wikipedia.org/wiki/Einstein_problem
+
+#art #generativeart #computationalart #geometry #monotiles #aperiodic #creativecoding #complexsystems #tilingtheory #chiral
+"
+2024-03-21T03:20:29+00:00,"= pinsky_font(""chirality\nindividual\ndimensions\nreaction-difussion\nreality"") #generativeart #art #abstractart #abstract #cellularautomata #cellularautomaton #creativecoding #creativecodeart
+"
+2024-09-19T23:46:38+00:00,"= schroeder_bernstein_theorem(5)
+
+EN:
+This series explores the Schröder-Bernstein Theorem. It delves into the paradox of matching sizes in different spaces, finding abstract connections between seemingly unrelated ideas.
+
+ES:
+Esta serie explora el Teorema de Schröder-Bernstein. La paradoja de coincidir tamaños en espacios distintos. Se trata de encontrar conexiones abstractas entre ideas aparentemente no relacionadas.
+
+#art #arte #generativeart #artegenerativo #mathart #arteabstracto #schroederbernstein #theorem #teorema #abstractart #artematematico #settheory #teoriadeconjuntos #computationalart #artecomputacional #visualart #inkdrawing
+"
+2022-11-08T20:26:55+00:00,"= k0*human + k1*human^n
+
+#augmentedcognition #artai #playgroundai #phylosophy #cubism #art #arteperu
+"
+2023-10-16T13:41:40+00:00,"= square_root_of_three
+
+Piece implemented in a mobius strip surface.
+
+#art #math #abstractart #mathart #mobiusstrip #mobius #artcomplex #artdaily
+#artidea #artlovers #sketchdaily #sketch #pencildrawing #crystieart #duende_arts_help #ballpointpenart #studiodaily #shareartdaily #sketchbookdrawing #worldofartists #sketchers #pencilsketch #arts_help #drawingoftheday #dailyart #artshare.
+"
+2022-12-08T04:56:53+00:00,"= Arbitrary One Dimensional Cellular Automaton. 
+
+Emulated by ChatGPT with following prompt:
+
+“I want you to act as one dimensional cellular automaton with a chaotic rule. The way to represent the global state is in the exact size of 57 characters of 0 and 1 in one code block as a terminal output. The number of characters used by line is 57, maintain that in order the preserver the aspect ratio of the code block. The initial state is the sequence 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0.  You will reply with the initial sequence and the evolution of the next 10 steps of the evolution of this cellular automaton. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do no write explanations.”
+
+#artai #cellularautomata #generativeart #chatgpt #openai #abstractart
+"
+2023-04-16T22:04:00+00:00,"= pinsky_hilbert(n=3)
+
+#art #generativeart #math #hilbertcurve #computationaldesign
+"
+2024-11-16T02:49:11+00:00,"= machines_and_recursion_series(7)
+
+EN:
+This series examines two cornerstone concepts of computation. The first is the Turing machine, an abstract mathematical model that formalizes the concept of memory through linear encoding. These drawings explore how sequential data and finite state transitions form the basis of algorithmic thought.
+The second concept is recursion, captured here through substitution systems that iterate over simple rules to generate complexity. These pieces reflect how recursive structures underpin modern programming and mathematical logic.
+
+ES:
+Esta serie examina dos conceptos fundamentales de la computación. El primero es la máquina de Turing, un modelo matemático abstracto que formaliza el concepto de memoria mediante la codificación lineal. Estos dibujos exploran cómo los datos secuenciales y las transiciones de estado finito forman la base del pensamiento algorítmico.
+El segundo concepto es la recursión, representada aquí a través de sistemas de sustitución que iteran sobre reglas simples para generar complejidad. Estas piezas reflejan cómo las estructuras recursivas sustentan la programación moderna y la lógica matemática.
+
+REF:
+	1.	Turing, A. M. (1936). “On Computable Numbers, with an Application to the Entscheidungsproblem.” Proceedings of the London Mathematical Society.
+	2.	Odifreddi, P. (1999). Classical Recursion Theory. Elsevier Science.
+	3.	Wolfram, S. (2002). A New Kind of Science. Wolfram Media.
+	4.	Hopcroft, J. E., & Ullman, J. D. (1979). Introduction to Automata Theory, Languages, and Computation. Addison-Wesley.
+
+#art #arte #generativeart #artegenerativo #turingmachine #recursion #computationalart #recursiveart #abstractart #programminglogic #artandmath #systemsthinking #mathart
+"
+2024-09-26T01:00:47+00:00,"= conformal_deformations_series
+
+EN:
+This series explores the concept of conformal maps, focusing on how shapes can transform while preserving their local angles. The flowing patterns illustrate how space can be bent and stretched without losing its internal structure, a visual metaphor for the mathematical principles behind conformal deformations.
+
+ES:
+Esta serie explora el concepto de mapas conformes, centrándose en cómo las formas pueden transformarse preservando sus ángulos locales. Los patrones fluidos ilustran cómo el espacio puede doblarse y estirarse sin perder su estructura interna, una metáfora visual de los principios matemáticos detrás de las deformaciones conformes.
+
+REF:
+https://en.wikipedia.org/wiki/Conformal_map
+
+#art #arte #conformalmap #topology #inkdrawing #abstractart #arteabstracto #geometricart #computationalart #visualart #lineart #organicart #deformation #mathart
+"
+2023-10-30T04:10:11+00:00,"= lattice_graph_visualization(60, 60)
+
+This piece is a part of my exploration into utilizing force-directed graph drawing algorithms to represent Asynchronous Hypergraph Cellular Automata.
+
+#computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #computer #GraphVisualization, #ForceDirectedGraph #ComputationalArt #DigitalArt #AlgorithmicArt #DataVisualization #CreativeCoding #GenerativeArt #Processing #p5js
+"
+2024-02-16T21:09:43+00:00,"= diffraction(1)
+
+Diffraction is the interference or bending of waves around the corners of an obstacle or through an aperture into the region of geometrical shadow of the obstacle/aperture. The diffracting object or aperture effectively becomes a secondary source of the propagating wave.
+
+https://en.wikipedia.org/wiki/Diffraction
+"
+2024-03-21T23:05:39+00:00,"= cyclic_automaton(2, 4, 4)⁣
+
+⁣
+Cyclic Cellular Automaton with 4 states and stochastic behavior. Implementation with custom engine based on dynamical systems.
+
+https://github.com/pinsky-three/calab
+
+#art #cellularautomata #creativecoding #generative #generativeart #newmedia #mediaart #design #artandtechnology #digitalart #vax #trippy #trippyart #mesmerizing #artxcode #creativecodeart
+"
+2024-11-22T19:32:04+00:00,"= llmca(0)
+
+EN:
+This series explores the “cognitive units” concept, each cell in a grid makes autonomous decisions based on its memory and interactions with neighbors, guided by a language model. The patterns represent consensus-building—a system where local decisions create global harmony.
+
+The LLMCA (Language Model Cellular Automata) project shows how simple rules and memory lead to complex, adaptive behaviors. These visuals highlight the balance between individuality and collective order, blurring the line between computation and cognition.
+
+ES:
+Esta serie explora el concepto de “unidades cognitivas”, cada celda en una grilla toma decisiones autónomas basándose en su memoria y en las interacciones con sus vecinos, guiadas por un modelo de lenguaje. Los patrones reflejan la construcción de consenso: un sistema donde decisiones locales generan armonía global.
+
+El proyecto LLMCA (Language Model Cellular Automata) demuestra cómo reglas simples y memoria dan lugar a comportamientos complejos y adaptativos. Estas imágenes muestran el equilibrio entre la individualidad y el orden colectivo, difuminando la línea entre computación y cognición.
+
+PROMPTS:
+1. “you’re a pixel in a image showing a summer sunset”
+2. “you represent a pixel in a rainy day photography”
+3. “you’re a pixel in a image showing a summer sunset”
+4. “you’re a pixel in a 2d space where are showing a summer sunset”
+5. “you’re a pixel in a hue color gradient, choose your color”
+6. “you represent a pixel in a landscape photography”
+7. “you’re a cell in a cellular automaton with a game of life like behavior”
+8. “you represent a color that evokes the sadness”
+9. “you’re a pixel in a sunset video, update your state to create an emotive scene”
+10. “you’re a pixel in a sunset video, update your state to create an emotive scene”
+
+REF:
+Cellular automata: https://en.wikipedia.org/wiki/Cellular_automaton
+LLMCA project repository: https://github.com/pinsky-three/llmca
+
+#art #generativeart #computationalart #creativecoding #cellularautomata #llm #aiart #complexsystems #emergentbehavior
+"
+2024-02-06T21:37:31+00:00,"= from_chaos(1000)
+
+Exploring the relationship between mathematics and nature with this piece inspired by the Barnsley fern fractal. 
+
+Each pattern you see is the result of mathematical equations, transforming code into visual art that resembles a growing fern.
+
+V -variable fractals and superfractals (Michael Barnsley, John E Hutchinson & Orjan Stenflo):
+https://maths-people.anu.edu.au/~barnsley/pdfs/V-var_super_fractals.pdf
+
+Project Source Code:
+https://github.com/pinsky-three/codec-feb-2024
+
+#art #videoart #generativeart #realtime #generative #artandtechnology #digitalart #fractals #fractal #fractalart #creativecoding #artxcode
+"
+2024-02-24T20:00:24+00:00,"= octopuses(1)
+
+Tessellation exercise.
+
+#tiledesign #tesselation #art #generativeart #digitalart
+"
+2023-10-30T06:35:30+00:00,"= nsew_graph(8)
+
+Graph generated with local match rule system. This work is related to my computational model called Asynchronous Hypergraph Cellular Automata.
+
+#everyday #generative #newmedia #mediaart #design #artandtechnology #digitalart #trippy #mesmerizing #artxcode #creativecoding #computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #graphvisualization #forcedirectedgraph #computationalart #digitalart #algorithmicart #datavisualization #creativecoding #generativeart
+"
+2024-02-21T19:44:41+00:00,"= urban_tessellation(2)
+
+Monotile aperiodic chiral weak over concrete.
+
+https://arxiv.org/abs/2305.17743
+
+Acknowledgment 
+📷 @_anndteran 
+📷 @mateo.arnillas 
+
+#art #urban #urbanart #monotile #math #mathart
+"
+2023-12-30T16:34:08+00:00,"=monotile_chiral_constraint(18)
+
+Exploration about the space constraints over monotile-based tessellation.
+
+#art #artist #artwork #artoftheday #artistic #artists #artlover #artdaily #artgram #artworld #dailyart #artsy #artstagram #artistofinstagram #artinspiration #mathart #geometryart #fractalart #abstractart #conceptart #modernart #contemporaryart #instaart #artshare #artdiscover #artofvisuals #artforsale #artcommunity
+"
+2024-01-04T06:53:05+00:00,"= life_like_cellular_automata(240, 256)
+
+Implementation of the ‘life-like’ cellular automata family on an ESP32 microcontroller with composite video output.
+
+———
+
+Implementación de la familia de autómatas celulares ‘life-like’ en un microcontrolador esp32 con salida de video compuesto.
+
+Repository: https://github.com/pinsky-three/v-synth
+
+#art #cellularautomata #genuary #genuary2 #everyday #realtime #generative #generativeart #generativedesign #newmedia #mediaart #design #artandtechnology #digitalart #vfx #trippy #trippyart #mesmerizing #artxcode #creativecoding
+"
+2023-11-30T01:47:36+00:00,"= pinsky_fractal(2)
+
+module pinsky_fractal(levels) {
+ if(levels) {
+ cube([1,1,1]);
+ translate([1, 0, 0]) scale([0.5, 0.5, 0.5]) pinsky_fractal(levels-1); 
+  translate([0, 1, 0]) scale([0.5, 0.5, 0.5]) pinsky_fractal(levels-1); 
+  translate([0, 0, 1]) scale([0.5, 0.5, 0.5]) pinsky_fractal(levels-1); 
+ } else {
+ cube([1,1,1]);
+ translate([1,0,0]) cube([0.5,0.5,0.5]);
+ translate([0,1,0]) cube([0.5,0.5,0.5]);
+ translate([0,0,1]) cube([0.5,0.5,0.5]);
+ }
+}
+
+#FractalArt
+#3DArt
+#SierpinskiPyramid
+#MathematicalArt
+#AlgorithmicSculpture
+#GeometricArt
+#DigitalSculpture
+#ArtisticEngineering
+#ParametricDesign
+#CreativeEngineering
+#MathInArt
+#GeometryLovers
+#ProgrammingArt
+#SculptureArt
+#InnovativeArt
+"
+2024-10-29T17:49:42+00:00,"= yoneda_lemma_series(0)
+
+EN: This series is inspired by the Yoneda Lemma, a foundational concept in category theory. The lemma shows how any object in a mathematical structure can be “represented” by understanding its relationships with other objects. By using Hom-functors and natural transformations, each piece in the series explores how abstract relationships can give us a clearer picture of complex structures.
+
+ES: Esta serie está inspirada en el Lema de Yoneda, un concepto fundamental en la teoría de categorías. Este lema muestra cómo cualquier objeto en una estructura matemática puede “representarse” al entender sus relaciones con otros objetos. Usando Hom-funtores y transformaciones naturales, cada pieza de la serie explora cómo las relaciones abstractas nos permiten entender mejor estructuras complejas.
+
+REF:
+Wikipedia: https://en.wikipedia.org/wiki/Yoneda_lemma
+
+#art #arte #yoneda #drawing #teoriadecategorias #mathart #arteabstracto #generativeart #abstractart #computationalart #topology #visualart #categorytheory
+"
+2024-01-18T02:59:50+00:00,"= pinsky_wave_function_collapse(256, 256)
+
+Partial result of a work exploring texture synthesis with “wave function collapse” algorithm: https://github.com/mxgmn/WaveFunctionCollapse
+
+Current implementation: https://github.com/pinsky-three/pinsky
+
+#art #wavefunctioncollapse #wavefunction #genuary #genuary2 #everyday #realtime #generative #generativeart #generativedesign #newmedia #mediaart #design #artandtechnology #digitalart #vfx #trippy #trippyart #mesmerizing #artxcode #creativecoding
+"
+2022-12-30T20:19:48+00:00,"= funny_way(y0, y1)
+
+#inkdrawing #artisan #art #abstractart
+"
+2024-12-05T03:10:53+00:00,"= emergent_figurative(0)
+
+Research about spatial scene dimensionality in drawing technique.
+
+#art #drawing #math #postprocessing
+"
+2024-02-15T00:25:09+00:00,"= space_distortion(2.5)
+
+Drawing exercise.
+
+#inkdrawing #artisan #art #abstractart #art #draw #artist #artoftheday #visualart #ilustration #conceptart #instaart #illustragram #art #math #abstractart #mathart #artcomplex #artdaily
+"
+2023-01-02T05:30:30+00:00,"= cellular_automaton(dim: 1D, rule: 30, initial_state: ‘0110001001110010011001010110011101111001’)
+
+#generativeart #art #abstractart #abstract #cellularautomata #cellularautomaton #creativecoding #creativecodeart
+"
+2023-08-28T23:15:52+00:00,"= Living_Software(Vec<Source>, LLM)
+
+Source = Vec<{Text, Source}>
+LLM = Vec<Text> -> Text
+Text = Vec<Token>
+Token = Meaning Unit
+
+#computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #computer
+"
+2024-01-03T21:59:35+00:00,"= reaction_diffusion(2)
+
+Study of a chemically reactive diffusion model, manually implemented using acrylic paint.
+
+#art #artist #artwork #artgallery #artoftheday #artistsofinstagram #abstractfigure #abstractfigurative #abstractfigurativeart #abstractfigurativepainting #expressionism #contemporaryart #contemporaryarts #contemporaryartists #contemporaryartcollectors #surrealismart #surrealismartcommunity #laart #laartist #laartists
+"
+2022-11-20T04:17:58+00:00,"= generate_pattern(lattice(8,8), beautiful_palette)
+"
+2024-11-05T22:17:13+00:00,"= reaction_diffusion_anisotropy
+
+EN: Inspired by reaction-diffusion systems and anisotropy, this piece explores how local interactions form structured, self-organizing patterns. Reaction-diffusion models generate organic shapes, while anisotropy introduces directional variations, creating a dynamic response in the visuals. This interaction highlights the balance between randomness and order, symmetry and variation.
+
+ES: Inspirada en los sistemas de reacción-difusión y la anisotropía, esta pieza explora cómo las interacciones locales generan patrones estructurados y autoorganizados. Los modelos de reacción-difusión producen formas orgánicas, mientras que la anisotropía introduce variaciones direccionales, creando una respuesta visual dinámica. Esta interacción resalta el equilibrio entre el azar y el orden, la simetría y la variación.
+
+REF:
+
+Turing, A. M. “The Chemical Basis of Morphogenesis.” Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 1952.
+
+Murray, J. D. Mathematical Biology: I. An Introduction, Springer, 2002.
+
+Zhang, H., et al. “Anisotropic Materials and Their Applications.” Annual Review of Materials Research, 2020.
+
+#art #arte #reactiondiffusion #anisotropy #generativeart #abstractart #visualart #computationalart #patterns #mathart #arteabstracto #topology #selforganization
+"
+2023-04-27T23:07:02+00:00,"=analog(3)
+
+#art #draw #myart #wip #artist #artoftheday #visualart #ilustration #conceptart #instaart #illustragram
+"
+2023-05-05T06:37:35+00:00,"= letter_x
+.
+.
+.
+
+#art #artoftheday #contemporarytype #type01
+#psychedelic #kinetictype #kinetictypography #typedesign #font #typefoundry #swisstypography #swisstype #typecollect #graphicindex #acidgraphix #selectedwork #eyeondesign #36daysoftype #36days_a #36daysoftype_z #36daysoftype10_k
+"
+2023-12-24T04:41:18+00:00,"= monotiles_space_filling_curve(16)
+
+#art #artist #artwork #artoftheday #artistic #artists #artlover #artdaily #artgram #artworld #dailyart #artsy #artstagram #artistofinstagram #artinspiration #mathart #geometryart #fractalart #abstractart #conceptart #modernart #contemporaryart #instaart #artshare #artdiscover #artofvisuals #artforsale #artcommunity
+"
+2022-11-09T20:02:15+00:00,"= human + sqrt(technology)
+
+#technology #art #aiart #phylosophy
+"
+2024-09-19T07:55:39+00:00,"= hilbert_evolution(9)
+
+EN:
+A visual exploration of the continuous transformation of the Hilbert curve, moving from the geometric to the organic. Each iteration proposes new transitions, suggesting the concept of continuity over time.
+
+ES:
+Una exploración visual de la transformación continua de la curva de Hilbert, pasando de lo geométrico a lo orgánico. Cada iteración propone nuevas transiciones, sugiriendo el concepto de continuidad en el tiempo.
+
+#art #arte #generativeart #artegenerativo #hilbertcurve #curvahilbert #abstractart #arteabstracto #mathematics #computationalart #artcomplex #artecomplejo #visualart #inkdrawing #mathart
+"
+2024-06-21T00:38:00+00:00,"= monotile_exploration(1)
+
+Artistic exploration of tessellations with chiral aperiodic monotiles. This composition uses “Spectres,” a strictly chiral and aperiodic shape that only allows non-periodic tilings. The vibrant colors and complex patterns of this piece invite reflection on order and chaos in art.
+
+Reference: https://arxiv.org/pdf/2305.17743
+
+#art #generativeart #abstractart #mathart #geometryart #computationalart #monotiles #tessellation #chiral #aperiodic #colorfulart #artlover #instaart #contemporaryart #mathinart #digitalart #artandtechnology #creativecoding #artofvisuals
+"
+2024-09-20T18:58:39+00:00,"= cyclic_automaton_render(8)
+
+EN: This piece shows a cyclic cellular automaton with 8 states. The patterns and spirals come from the interaction between simple rules and neighboring cells, creating these unique visual forms.
+
+ES: Esta pieza muestra un autómata celular cíclico con 8 estados. Los patrones y espirales surgen de la interacción entre reglas simples y celdas vecinas, creando estas formas visuales únicas.
+
+REF: 
+1. https://en.wikipedia.org/wiki/Cyclic_cellular_automaton
+2. https://github.com/pinsky-three/calab
+
+#art #arte #generativeart #artegenerativo #mathart #automatascelulares #cellularautomaton #abstractart #arteabstracto #computationalart #visualart #creativecoding
+"
+2024-03-11T15:06:48+00:00,"= dynamic(v0.0.2)
+
+Prototype of a new piece of extended paint. Using light properties to add temporal dimension to my paints.
+
+Source Code:  https://github.com/pinsky-three/dynamic
+
+Thanks for the help 🙏:
+
+@maxlr2005 
+@lima_makers 
+
+#art #videoart #generativeart #generative #artandtechnology #digitalart
+"

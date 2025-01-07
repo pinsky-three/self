@@ -1,0 +1,1 @@
+instaloader --no-compress-json pinsky_three
