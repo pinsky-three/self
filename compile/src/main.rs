@@ -1,4 +1,5 @@
 use chrono::NaiveDateTime;
+use serde_json::Value;
 use std::{env, ops::Not};
 use walkdir::WalkDir;
 
@@ -15,7 +16,9 @@ fn main() {
 
     let mut csv_wtr = csv::Writer::from_path(csv_file_path).unwrap();
 
-    csv_wtr.write_record(["datetime", "content"]).unwrap();
+    csv_wtr
+        .write_record(["datetime", "content", "likes", "items"])
+        .unwrap();
 
     for entry in WalkDir::new(target_dir).into_iter().filter_entry(|e| {
         let path = e.path();
@@ -45,8 +48,47 @@ fn main() {
                 let txt_path = path.with_file_name(txt_filename);
                 let txt_content = std::fs::read_to_string(txt_path).unwrap();
 
+                let json_content = std::fs::read_to_string(path).unwrap();
+                let json_value: Value = serde_json::from_str(&json_content).unwrap();
+
+                let node = json_value.get("node").unwrap();
+
+                let likes = node
+                    .get("edge_media_preview_like")
+                    .unwrap()
+                    .get("count")
+                    .unwrap()
+                    .as_u64()
+                    .unwrap();
+
+                let total_items = match node.get("edge_sidecar_to_children") {
+                    Some(children) => children.get("edges").unwrap().as_array().unwrap().len(),
+                    None => 1,
+                };
+
+                let items = match total_items {
+                    1 => vec![path
+                        .with_file_name(format!("{}.jpg", base_filename))
+                        .to_str()
+                        .unwrap()
+                        .to_string()],
+                    _ => (1..total_items + 1)
+                        .map(|i| {
+                            path.with_file_name(format!("{}_{}.jpg", base_filename, i))
+                                .to_str()
+                                .unwrap()
+                                .to_string()
+                        })
+                        .collect(),
+                };
+
                 csv_wtr
-                    .write_record(&[datetime.to_rfc3339(), txt_content])
+                    .write_record(&[
+                        datetime.to_rfc3339(),
+                        txt_content,
+                        likes.to_string(),
+                        items.join(","),
+                    ])
                     .unwrap();
             }
         }

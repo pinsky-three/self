@@ -1,8 +1,8 @@
-datetime,content
+datetime,content,likes,items
 2024-03-11T20:10:53+00:00,"= reaction_diffusion(3)
 
 #art #painting #artcollector #artoftheday #artdaily #futurism #reactiondiffusion #mathart
-"
+",18,pinsky_three/2024-03-11_20-10-53_UTC.jpg
 2023-09-03T17:54:59+00:00,"= Hypergraph_Async_Cellular_Automata(HG, Dynamic)
 
 HG = (N, HE)
@@ -12,7 +12,7 @@ Dynamic = (Index, HG) -> HG
 Index = uint
 
 #computerscience #computationalart  #art #artoftheday #generativeart #abstractart #math  #wolfram  #computationalmodels #artworks  #handdrawn #handmade #drawing  #draw
-"
+",19,pinsky_three/2023-09-03_17-54-59_UTC.jpg
 2024-12-16T10:35:02+00:00,"= aperiodic_monotile(3)
 
 EN:
@@ -30,9 +30,9 @@ REF:
 	•	Einstein problem: https://en.wikipedia.org/wiki/Einstein_problem
 
 #art #generativeart #computationalart #geometry #monotiles #aperiodic #creativecoding #complexsystems #tilingtheory #chiral
-"
+",14,"pinsky_three/2024-12-16_10-35-02_UTC_1.jpg,pinsky_three/2024-12-16_10-35-02_UTC_2.jpg,pinsky_three/2024-12-16_10-35-02_UTC_3.jpg,pinsky_three/2024-12-16_10-35-02_UTC_4.jpg,pinsky_three/2024-12-16_10-35-02_UTC_5.jpg,pinsky_three/2024-12-16_10-35-02_UTC_6.jpg,pinsky_three/2024-12-16_10-35-02_UTC_7.jpg,pinsky_three/2024-12-16_10-35-02_UTC_8.jpg"
 2024-03-21T03:20:29+00:00,"= pinsky_font(""chirality\nindividual\ndimensions\nreaction-difussion\nreality"") #generativeart #art #abstractart #abstract #cellularautomata #cellularautomaton #creativecoding #creativecodeart
-"
+",15,"pinsky_three/2024-03-21_03-20-29_UTC_1.jpg,pinsky_three/2024-03-21_03-20-29_UTC_2.jpg"
 2024-09-19T23:46:38+00:00,"= schroeder_bernstein_theorem(5)
 
 EN:
@@ -42,18 +42,18 @@ ES:
 Esta serie explora el Teorema de Schröder-Bernstein. La paradoja de coincidir tamaños en espacios distintos. Se trata de encontrar conexiones abstractas entre ideas aparentemente no relacionadas.
 
 #art #arte #generativeart #artegenerativo #mathart #arteabstracto #schroederbernstein #theorem #teorema #abstractart #artematematico #settheory #teoriadeconjuntos #computationalart #artecomputacional #visualart #inkdrawing
-"
+",14,"pinsky_three/2024-09-19_23-46-38_UTC_1.jpg,pinsky_three/2024-09-19_23-46-38_UTC_2.jpg,pinsky_three/2024-09-19_23-46-38_UTC_3.jpg,pinsky_three/2024-09-19_23-46-38_UTC_4.jpg,pinsky_three/2024-09-19_23-46-38_UTC_5.jpg,pinsky_three/2024-09-19_23-46-38_UTC_6.jpg,pinsky_three/2024-09-19_23-46-38_UTC_7.jpg,pinsky_three/2024-09-19_23-46-38_UTC_8.jpg,pinsky_three/2024-09-19_23-46-38_UTC_9.jpg"
 2022-11-08T20:26:55+00:00,"= k0*human + k1*human^n
 
 #augmentedcognition #artai #playgroundai #phylosophy #cubism #art #arteperu
-"
+",13,"pinsky_three/2022-11-08_20-26-55_UTC_1.jpg,pinsky_three/2022-11-08_20-26-55_UTC_2.jpg,pinsky_three/2022-11-08_20-26-55_UTC_3.jpg,pinsky_three/2022-11-08_20-26-55_UTC_4.jpg,pinsky_three/2022-11-08_20-26-55_UTC_5.jpg"
 2023-10-16T13:41:40+00:00,"= square_root_of_three
 
 Piece implemented in a mobius strip surface.
 
 #art #math #abstractart #mathart #mobiusstrip #mobius #artcomplex #artdaily
 #artidea #artlovers #sketchdaily #sketch #pencildrawing #crystieart #duende_arts_help #ballpointpenart #studiodaily #shareartdaily #sketchbookdrawing #worldofartists #sketchers #pencilsketch #arts_help #drawingoftheday #dailyart #artshare.
-"
+",3,"pinsky_three/2023-10-16_13-41-40_UTC_1.jpg,pinsky_three/2023-10-16_13-41-40_UTC_2.jpg"
 2022-12-08T04:56:53+00:00,"= Arbitrary One Dimensional Cellular Automaton. 
 
 Emulated by ChatGPT with following prompt:
@@ -61,11 +61,11 @@ Emulated by ChatGPT with following prompt:
 “I want you to act as one dimensional cellular automaton with a chaotic rule. The way to represent the global state is in the exact size of 57 characters of 0 and 1 in one code block as a terminal output. The number of characters used by line is 57, maintain that in order the preserver the aspect ratio of the code block. The initial state is the sequence 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0.  You will reply with the initial sequence and the evolution of the next 10 steps of the evolution of this cellular automaton. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do no write explanations.”
 
 #artai #cellularautomata #generativeart #chatgpt #openai #abstractart
-"
+",10,pinsky_three/2022-12-08_04-56-53_UTC.jpg
 2023-04-16T22:04:00+00:00,"= pinsky_hilbert(n=3)
 
 #art #generativeart #math #hilbertcurve #computationaldesign
-"
+",19,"pinsky_three/2023-04-16_22-04-00_UTC_1.jpg,pinsky_three/2023-04-16_22-04-00_UTC_2.jpg,pinsky_three/2023-04-16_22-04-00_UTC_3.jpg"
 2024-11-16T02:49:11+00:00,"= machines_and_recursion_series(7)
 
 EN:
@@ -83,7 +83,7 @@ REF:
 	4.	Hopcroft, J. E., & Ullman, J. D. (1979). Introduction to Automata Theory, Languages, and Computation. Addison-Wesley.
 
 #art #arte #generativeart #artegenerativo #turingmachine #recursion #computationalart #recursiveart #abstractart #programminglogic #artandmath #systemsthinking #mathart
-"
+",36,"pinsky_three/2024-11-16_02-49-11_UTC_1.jpg,pinsky_three/2024-11-16_02-49-11_UTC_2.jpg,pinsky_three/2024-11-16_02-49-11_UTC_3.jpg,pinsky_three/2024-11-16_02-49-11_UTC_4.jpg,pinsky_three/2024-11-16_02-49-11_UTC_5.jpg,pinsky_three/2024-11-16_02-49-11_UTC_6.jpg,pinsky_three/2024-11-16_02-49-11_UTC_7.jpg"
 2024-09-26T01:00:47+00:00,"= conformal_deformations_series
 
 EN:
@@ -96,19 +96,19 @@ REF:
 https://en.wikipedia.org/wiki/Conformal_map
 
 #art #arte #conformalmap #topology #inkdrawing #abstractart #arteabstracto #geometricart #computationalart #visualart #lineart #organicart #deformation #mathart
-"
+",9,"pinsky_three/2024-09-26_01-00-47_UTC_1.jpg,pinsky_three/2024-09-26_01-00-47_UTC_2.jpg,pinsky_three/2024-09-26_01-00-47_UTC_3.jpg,pinsky_three/2024-09-26_01-00-47_UTC_4.jpg"
 2023-10-30T04:10:11+00:00,"= lattice_graph_visualization(60, 60)
 
 This piece is a part of my exploration into utilizing force-directed graph drawing algorithms to represent Asynchronous Hypergraph Cellular Automata.
 
 #computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #computer #GraphVisualization, #ForceDirectedGraph #ComputationalArt #DigitalArt #AlgorithmicArt #DataVisualization #CreativeCoding #GenerativeArt #Processing #p5js
-"
+",67,pinsky_three/2023-10-30_04-10-11_UTC.jpg
 2024-02-16T21:09:43+00:00,"= diffraction(1)
 
 Diffraction is the interference or bending of waves around the corners of an obstacle or through an aperture into the region of geometrical shadow of the obstacle/aperture. The diffracting object or aperture effectively becomes a secondary source of the propagating wave.
 
 https://en.wikipedia.org/wiki/Diffraction
-"
+",11,pinsky_three/2024-02-16_21-09-43_UTC.jpg
 2024-03-21T23:05:39+00:00,"= cyclic_automaton(2, 4, 4)⁣
 
 ⁣
@@ -117,7 +117,7 @@ Cyclic Cellular Automaton with 4 states and stochastic behavior. Implementation 
 https://github.com/pinsky-three/calab
 
 #art #cellularautomata #creativecoding #generative #generativeart #newmedia #mediaart #design #artandtechnology #digitalart #vax #trippy #trippyart #mesmerizing #artxcode #creativecodeart
-"
+",92,pinsky_three/2024-03-21_23-05-39_UTC.jpg
 2024-11-22T19:32:04+00:00,"= llmca(0)
 
 EN:
@@ -147,7 +147,7 @@ Cellular automata: https://en.wikipedia.org/wiki/Cellular_automaton
 LLMCA project repository: https://github.com/pinsky-three/llmca
 
 #art #generativeart #computationalart #creativecoding #cellularautomata #llm #aiart #complexsystems #emergentbehavior
-"
+",43,"pinsky_three/2024-11-22_19-32-04_UTC_1.jpg,pinsky_three/2024-11-22_19-32-04_UTC_2.jpg,pinsky_three/2024-11-22_19-32-04_UTC_3.jpg,pinsky_three/2024-11-22_19-32-04_UTC_4.jpg,pinsky_three/2024-11-22_19-32-04_UTC_5.jpg,pinsky_three/2024-11-22_19-32-04_UTC_6.jpg,pinsky_three/2024-11-22_19-32-04_UTC_7.jpg,pinsky_three/2024-11-22_19-32-04_UTC_8.jpg,pinsky_three/2024-11-22_19-32-04_UTC_9.jpg,pinsky_three/2024-11-22_19-32-04_UTC_10.jpg"
 2024-02-06T21:37:31+00:00,"= from_chaos(1000)
 
 Exploring the relationship between mathematics and nature with this piece inspired by the Barnsley fern fractal. 
@@ -161,19 +161,19 @@ Project Source Code:
 https://github.com/pinsky-three/codec-feb-2024
 
 #art #videoart #generativeart #realtime #generative #artandtechnology #digitalart #fractals #fractal #fractalart #creativecoding #artxcode
-"
+",21,pinsky_three/2024-02-06_21-37-31_UTC.jpg
 2024-02-24T20:00:24+00:00,"= octopuses(1)
 
 Tessellation exercise.
 
 #tiledesign #tesselation #art #generativeart #digitalart
-"
+",23,"pinsky_three/2024-02-24_20-00-24_UTC_1.jpg,pinsky_three/2024-02-24_20-00-24_UTC_2.jpg,pinsky_three/2024-02-24_20-00-24_UTC_3.jpg,pinsky_three/2024-02-24_20-00-24_UTC_4.jpg"
 2023-10-30T06:35:30+00:00,"= nsew_graph(8)
 
 Graph generated with local match rule system. This work is related to my computational model called Asynchronous Hypergraph Cellular Automata.
 
 #everyday #generative #newmedia #mediaart #design #artandtechnology #digitalart #trippy #mesmerizing #artxcode #creativecoding #computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #graphvisualization #forcedirectedgraph #computationalart #digitalart #algorithmicart #datavisualization #creativecoding #generativeart
-"
+",20,"pinsky_three/2023-10-30_06-35-30_UTC_1.jpg,pinsky_three/2023-10-30_06-35-30_UTC_2.jpg,pinsky_three/2023-10-30_06-35-30_UTC_3.jpg,pinsky_three/2023-10-30_06-35-30_UTC_4.jpg"
 2024-02-21T19:44:41+00:00,"= urban_tessellation(2)
 
 Monotile aperiodic chiral weak over concrete.
@@ -185,13 +185,13 @@ Acknowledgment
 📷 @mateo.arnillas 
 
 #art #urban #urbanart #monotile #math #mathart
-"
+",77,pinsky_three/2024-02-21_19-44-41_UTC.jpg
 2023-12-30T16:34:08+00:00,"=monotile_chiral_constraint(18)
 
 Exploration about the space constraints over monotile-based tessellation.
 
 #art #artist #artwork #artoftheday #artistic #artists #artlover #artdaily #artgram #artworld #dailyart #artsy #artstagram #artistofinstagram #artinspiration #mathart #geometryart #fractalart #abstractart #conceptart #modernart #contemporaryart #instaart #artshare #artdiscover #artofvisuals #artforsale #artcommunity
-"
+",3,pinsky_three/2023-12-30_16-34-08_UTC.jpg
 2024-01-04T06:53:05+00:00,"= life_like_cellular_automata(240, 256)
 
 Implementation of the ‘life-like’ cellular automata family on an ESP32 microcontroller with composite video output.
@@ -203,7 +203,7 @@ Implementación de la familia de autómatas celulares ‘life-like’ en un micr
 Repository: https://github.com/pinsky-three/v-synth
 
 #art #cellularautomata #genuary #genuary2 #everyday #realtime #generative #generativeart #generativedesign #newmedia #mediaart #design #artandtechnology #digitalart #vfx #trippy #trippyart #mesmerizing #artxcode #creativecoding
-"
+",3,"pinsky_three/2024-01-04_06-53-05_UTC_1.jpg,pinsky_three/2024-01-04_06-53-05_UTC_2.jpg,pinsky_three/2024-01-04_06-53-05_UTC_3.jpg,pinsky_three/2024-01-04_06-53-05_UTC_4.jpg,pinsky_three/2024-01-04_06-53-05_UTC_5.jpg,pinsky_three/2024-01-04_06-53-05_UTC_6.jpg,pinsky_three/2024-01-04_06-53-05_UTC_7.jpg"
 2023-11-30T01:47:36+00:00,"= pinsky_fractal(2)
 
 module pinsky_fractal(levels) {
@@ -235,7 +235,7 @@ module pinsky_fractal(levels) {
 #ProgrammingArt
 #SculptureArt
 #InnovativeArt
-"
+",83,"pinsky_three/2023-11-30_01-47-36_UTC_1.jpg,pinsky_three/2023-11-30_01-47-36_UTC_2.jpg,pinsky_three/2023-11-30_01-47-36_UTC_3.jpg,pinsky_three/2023-11-30_01-47-36_UTC_4.jpg"
 2024-10-29T17:49:42+00:00,"= yoneda_lemma_series(0)
 
 EN: This series is inspired by the Yoneda Lemma, a foundational concept in category theory. The lemma shows how any object in a mathematical structure can be “represented” by understanding its relationships with other objects. By using Hom-functors and natural transformations, each piece in the series explores how abstract relationships can give us a clearer picture of complex structures.
@@ -246,7 +246,7 @@ REF:
 Wikipedia: https://en.wikipedia.org/wiki/Yoneda_lemma
 
 #art #arte #yoneda #drawing #teoriadecategorias #mathart #arteabstracto #generativeart #abstractart #computationalart #topology #visualart #categorytheory
-"
+",12,"pinsky_three/2024-10-29_17-49-42_UTC_1.jpg,pinsky_three/2024-10-29_17-49-42_UTC_2.jpg,pinsky_three/2024-10-29_17-49-42_UTC_3.jpg,pinsky_three/2024-10-29_17-49-42_UTC_4.jpg,pinsky_three/2024-10-29_17-49-42_UTC_5.jpg,pinsky_three/2024-10-29_17-49-42_UTC_6.jpg,pinsky_three/2024-10-29_17-49-42_UTC_7.jpg,pinsky_three/2024-10-29_17-49-42_UTC_8.jpg,pinsky_three/2024-10-29_17-49-42_UTC_9.jpg,pinsky_three/2024-10-29_17-49-42_UTC_10.jpg,pinsky_three/2024-10-29_17-49-42_UTC_11.jpg,pinsky_three/2024-10-29_17-49-42_UTC_12.jpg,pinsky_three/2024-10-29_17-49-42_UTC_13.jpg,pinsky_three/2024-10-29_17-49-42_UTC_14.jpg"
 2024-01-18T02:59:50+00:00,"= pinsky_wave_function_collapse(256, 256)
 
 Partial result of a work exploring texture synthesis with “wave function collapse” algorithm: https://github.com/mxgmn/WaveFunctionCollapse
@@ -254,27 +254,27 @@ Partial result of a work exploring texture synthesis with “wave function colla
 Current implementation: https://github.com/pinsky-three/pinsky
 
 #art #wavefunctioncollapse #wavefunction #genuary #genuary2 #everyday #realtime #generative #generativeart #generativedesign #newmedia #mediaart #design #artandtechnology #digitalart #vfx #trippy #trippyart #mesmerizing #artxcode #creativecoding
-"
+",3,pinsky_three/2024-01-18_02-59-50_UTC.jpg
 2022-12-30T20:19:48+00:00,"= funny_way(y0, y1)
 
 #inkdrawing #artisan #art #abstractart
-"
+",12,pinsky_three/2022-12-30_20-19-48_UTC.jpg
 2024-12-05T03:10:53+00:00,"= emergent_figurative(0)
 
 Research about spatial scene dimensionality in drawing technique.
 
 #art #drawing #math #postprocessing
-"
+",8,pinsky_three/2024-12-05_03-10-53_UTC.jpg
 2024-02-15T00:25:09+00:00,"= space_distortion(2.5)
 
 Drawing exercise.
 
 #inkdrawing #artisan #art #abstractart #art #draw #artist #artoftheday #visualart #ilustration #conceptart #instaart #illustragram #art #math #abstractart #mathart #artcomplex #artdaily
-"
+",40,pinsky_three/2024-02-15_00-25-09_UTC.jpg
 2023-01-02T05:30:30+00:00,"= cellular_automaton(dim: 1D, rule: 30, initial_state: ‘0110001001110010011001010110011101111001’)
 
 #generativeart #art #abstractart #abstract #cellularautomata #cellularautomaton #creativecoding #creativecodeart
-"
+",26,pinsky_three/2023-01-02_05-30-30_UTC.jpg
 2023-08-28T23:15:52+00:00,"= Living_Software(Vec<Source>, LLM)
 
 Source = Vec<{Text, Source}>
@@ -283,15 +283,15 @@ Text = Vec<Token>
 Token = Meaning Unit
 
 #computerscience #art #artoftheday #selectedwork #generativeart #abstractart #abstract #inkdrawing #software #cellularautomaton #creativecoding #creativecodeart #math #computer
-"
+",16,pinsky_three/2023-08-28_23-15-52_UTC.jpg
 2024-01-03T21:59:35+00:00,"= reaction_diffusion(2)
 
 Study of a chemically reactive diffusion model, manually implemented using acrylic paint.
 
 #art #artist #artwork #artgallery #artoftheday #artistsofinstagram #abstractfigure #abstractfigurative #abstractfigurativeart #abstractfigurativepainting #expressionism #contemporaryart #contemporaryarts #contemporaryartists #contemporaryartcollectors #surrealismart #surrealismartcommunity #laart #laartist #laartists
-"
+",3,pinsky_three/2024-01-03_21-59-35_UTC.jpg
 2022-11-20T04:17:58+00:00,"= generate_pattern(lattice(8,8), beautiful_palette)
-"
+",19,pinsky_three/2022-11-20_04-17-58_UTC.jpg
 2024-11-05T22:17:13+00:00,"= reaction_diffusion_anisotropy
 
 EN: Inspired by reaction-diffusion systems and anisotropy, this piece explores how local interactions form structured, self-organizing patterns. Reaction-diffusion models generate organic shapes, while anisotropy introduces directional variations, creating a dynamic response in the visuals. This interaction highlights the balance between randomness and order, symmetry and variation.
@@ -307,11 +307,11 @@ Murray, J. D. Mathematical Biology: I. An Introduction, Springer, 2002.
 Zhang, H., et al. “Anisotropic Materials and Their Applications.” Annual Review of Materials Research, 2020.
 
 #art #arte #reactiondiffusion #anisotropy #generativeart #abstractart #visualart #computationalart #patterns #mathart #arteabstracto #topology #selforganization
-"
+",14,"pinsky_three/2024-11-05_22-17-13_UTC_1.jpg,pinsky_three/2024-11-05_22-17-13_UTC_2.jpg,pinsky_three/2024-11-05_22-17-13_UTC_3.jpg"
 2023-04-27T23:07:02+00:00,"=analog(3)
 
 #art #draw #myart #wip #artist #artoftheday #visualart #ilustration #conceptart #instaart #illustragram
-"
+",16,pinsky_three/2023-04-27_23-07-02_UTC.jpg
 2023-05-05T06:37:35+00:00,"= letter_x
 .
 .
@@ -319,15 +319,15 @@ Zhang, H., et al. “Anisotropic Materials and Their Applications.” Annual Rev
 
 #art #artoftheday #contemporarytype #type01
 #psychedelic #kinetictype #kinetictypography #typedesign #font #typefoundry #swisstypography #swisstype #typecollect #graphicindex #acidgraphix #selectedwork #eyeondesign #36daysoftype #36days_a #36daysoftype_z #36daysoftype10_k
-"
+",20,pinsky_three/2023-05-05_06-37-35_UTC.jpg
 2023-12-24T04:41:18+00:00,"= monotiles_space_filling_curve(16)
 
 #art #artist #artwork #artoftheday #artistic #artists #artlover #artdaily #artgram #artworld #dailyart #artsy #artstagram #artistofinstagram #artinspiration #mathart #geometryart #fractalart #abstractart #conceptart #modernart #contemporaryart #instaart #artshare #artdiscover #artofvisuals #artforsale #artcommunity
-"
+",46,pinsky_three/2023-12-24_04-41-18_UTC.jpg
 2022-11-09T20:02:15+00:00,"= human + sqrt(technology)
 
 #technology #art #aiart #phylosophy
-"
+",19,pinsky_three/2022-11-09_20-02-15_UTC.jpg
 2024-09-19T07:55:39+00:00,"= hilbert_evolution(9)
 
 EN:
@@ -337,7 +337,7 @@ ES:
 Una exploración visual de la transformación continua de la curva de Hilbert, pasando de lo geométrico a lo orgánico. Cada iteración propone nuevas transiciones, sugiriendo el concepto de continuidad en el tiempo.
 
 #art #arte #generativeart #artegenerativo #hilbertcurve #curvahilbert #abstractart #arteabstracto #mathematics #computationalart #artcomplex #artecomplejo #visualart #inkdrawing #mathart
-"
+",105,"pinsky_three/2024-09-19_07-55-39_UTC_1.jpg,pinsky_three/2024-09-19_07-55-39_UTC_2.jpg,pinsky_three/2024-09-19_07-55-39_UTC_3.jpg,pinsky_three/2024-09-19_07-55-39_UTC_4.jpg,pinsky_three/2024-09-19_07-55-39_UTC_5.jpg,pinsky_three/2024-09-19_07-55-39_UTC_6.jpg,pinsky_three/2024-09-19_07-55-39_UTC_7.jpg,pinsky_three/2024-09-19_07-55-39_UTC_8.jpg,pinsky_three/2024-09-19_07-55-39_UTC_9.jpg"
 2024-06-21T00:38:00+00:00,"= monotile_exploration(1)
 
 Artistic exploration of tessellations with chiral aperiodic monotiles. This composition uses “Spectres,” a strictly chiral and aperiodic shape that only allows non-periodic tilings. The vibrant colors and complex patterns of this piece invite reflection on order and chaos in art.
@@ -345,7 +345,7 @@ Artistic exploration of tessellations with chiral aperiodic monotiles. This comp
 Reference: https://arxiv.org/pdf/2305.17743
 
 #art #generativeart #abstractart #mathart #geometryart #computationalart #monotiles #tessellation #chiral #aperiodic #colorfulart #artlover #instaart #contemporaryart #mathinart #digitalart #artandtechnology #creativecoding #artofvisuals
-"
+",28,pinsky_three/2024-06-21_00-38-00_UTC.jpg
 2024-09-20T18:58:39+00:00,"= cyclic_automaton_render(8)
 
 EN: This piece shows a cyclic cellular automaton with 8 states. The patterns and spirals come from the interaction between simple rules and neighboring cells, creating these unique visual forms.
@@ -357,7 +357,7 @@ REF:
 2. https://github.com/pinsky-three/calab
 
 #art #arte #generativeart #artegenerativo #mathart #automatascelulares #cellularautomaton #abstractart #arteabstracto #computationalart #visualart #creativecoding
-"
+",27,"pinsky_three/2024-09-20_18-58-39_UTC_1.jpg,pinsky_three/2024-09-20_18-58-39_UTC_2.jpg"
 2024-03-11T15:06:48+00:00,"= dynamic(v0.0.2)
 
 Prototype of a new piece of extended paint. Using light properties to add temporal dimension to my paints.
@@ -370,4 +370,4 @@ Thanks for the help 🙏:
 @lima_makers 
 
 #art #videoart #generativeart #generative #artandtechnology #digitalart
-"
+",16,pinsky_three/2024-03-11_15-06-48_UTC.jpg
