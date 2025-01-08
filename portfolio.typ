@@ -1,11 +1,12 @@
 #set page(
   paper: "a4",
-  margin: (x: 1cm, y: 1cm),
+  margin: (x: 0cm, y: 0cm),
 )
 
 #let pinsky_three_csv = csv("pinsky_three.csv")
 
 
+#let margin = 0.5cm
 
 #for row in pinsky_three_csv.slice(1) {
   // image(row.at(3))
@@ -25,8 +26,8 @@
       font: "JetBrains Mono",
       weight: "bold"
     ),
-    // x: 0.5cm, 
-    top: 0.5cm,
+    x: margin, 
+    top: margin,
   )
 
   pad(
@@ -34,8 +35,8 @@
       description ,
       font: "JetBrains Mono",
     ),
-    // x: 0.5cm, 
-    y: 0.0cm,
+    x: margin, 
+    y: margin,
   )
 
   pagebreak()
