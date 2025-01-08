@@ -16,7 +16,7 @@
   let description = description_parts.slice(1).join("\n")
   
   // stack(dir: ltr, ..row.at(3).split(",").map(image))
-  grid(..row.at(3).split(",").map(image), columns: 2,)
+  align(grid(..row.at(3).split(",").map(image), columns: 2), center)
 
   pad(
     text(
