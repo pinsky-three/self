@@ -33,7 +33,7 @@
       
       For me, art is not just a means of expression but a method of discovery—a way to "excavate" the intricate structures that exist beneath our understanding of the universe. By merging traditional techniques with computational approaches, I aim to reveal connections between the organic and the geometric, the natural and the constructed, the human and the infinite.
 
-      Ultimately, my goal is to invite viewers into a space where logic meets intuition, and where the language of mathematics becomes an important medium for storytelling and connection.
+      Ultimately, my goal is to invite viewers into a space where logic meets intuition, and where the language of mathematics becomes an universal medium for storytelling and connection.
       #v(margin)
 
       #text(fill: white)[ESPAÑOL:]
