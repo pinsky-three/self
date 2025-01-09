@@ -12,6 +12,15 @@
 #align(image("pinsky_square.png", width: 50%), center + horizon)
 
 
+#align(bottom)[
+  #pad(x: margin*2, y: margin*2)[ 
+    #text(font: "JetBrains Mono", fill: gray)[
+      #link("https://github.com/pinsky-three/self")
+    ]
+  ]
+]
+
+
 #pagebreak()
 
 
