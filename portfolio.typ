@@ -26,24 +26,19 @@
     #text(
       lorem(60),
       font: "JetBrains Mono",
-      fill: white,
+      fill: white, 
     )
   ]
 ]
 #pagebreak()
 
 #for row in pinsky_three_csv.slice(1) {
-  // image(row.at(3))
-  // row.at(3) + "\n"
-
   let description_parts = row.at(1).split("\n")
   let title = description_parts.at(0)
   let description = description_parts.slice(1).join("\n")
   
-  // stack(dir: ltr, ..row.at(3).split(",").map(image))
   align(grid(..row.at(3).split(",").map(image), columns: 2), center)
 
-  
   pad(
     text(
       title, 
